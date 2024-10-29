@@ -1,4 +1,4 @@
 /venv/
 .env
 /django_project/pycache/
-.covrage
+.coverage
